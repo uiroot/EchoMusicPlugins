@@ -554,14 +554,13 @@
         "smartisan",
         "theme"
       ]
-    },
-    
-{
-  "id": "auto-daily-vip",
-  "path": "",
-  "repo": "https://github.com/uiroot/auto-daily-vip",
-  "homepage": "https://github.com/uiroot/auto-daily-vip",
-  "tags": ["auto", "vip", "daily"]
-}
+    },   
+    {
+      "id": "auto-daily-vip",
+      "path": "auto-daily-vip",
+      "repo": "",
+      "homepage": "https://github.com/uiroot/EchoMusicPlugins",
+      "tags": ["vip"]
+    }
   ]
 }
