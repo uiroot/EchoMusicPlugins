@@ -558,8 +558,7 @@
     {
       "id": "auto-daily-vip",
       "path": "auto-daily-vip",
-      "repo": "",
-      "homepage": "https://github.com/uiroot/EchoMusicPlugins",
+      "homepage": "https://github.com/uiroot/EchoMusicPlugins/auto-daily-vip",
       "tags": ["vip"]
     }
   ]
